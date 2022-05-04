@@ -12,7 +12,7 @@
      $option = true;
      $num = 1;
 
-     while(true){
+     while($option){
           echo"opa!! $num";
 
           $num = $num + 1;
